@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.gradio/
+.cache/
+HF_HOME/
+captions_*.txt
+captions_*.json
+captions_*.srt
+audio_*.mp3
+certificate.pem
